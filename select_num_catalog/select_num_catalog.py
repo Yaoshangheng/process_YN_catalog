@@ -1,3 +1,9 @@
+'''
+@author:Yao Yuan
+@time:2025/01/06
+@function:区别出来地震目录中单台定位的数据
+'''
+
 # 文件路径
 input_file = "昆明区域地震目录2022-2024.txt"
 output_file_3 = "YN_catalog_3.txt"
